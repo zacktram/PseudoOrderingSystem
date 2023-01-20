@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Header\ page\ for\ Queue\ and\ Orders\ class.\ Includes\ necessary\ methods\r\n\r\n\ @author\ Zack\ Tram\r\n\ @version\ 11/16/22\r\n
+comment1.params=orderNumber\ orderName\ item\ orderTotal
+comment1.target=Node(int,\ java.lang.String,\ java.lang.String,\ double)
+comment10.params=
+comment10.target=double\ getOrderTotal()
+comment11.params=orderTotal
+comment11.target=void\ setOrderTotal(double)
+comment2.params=
+comment2.target=Node\ getNext()
+comment3.params=next
+comment3.target=void\ setNext(Node)
+comment4.params=
+comment4.target=int\ getOrderNumber()
+comment5.params=orderNumber
+comment5.target=void\ setOrderNumber(int)
+comment6.params=
+comment6.target=java.lang.String\ getOrderName()
+comment7.params=orderName
+comment7.target=void\ setOrderName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getItem()
+comment9.params=item
+comment9.target=void\ setItem(java.lang.String)
+numComments=12

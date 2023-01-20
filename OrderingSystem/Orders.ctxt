@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Orders
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Orders\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=queue
+comment1.target=Node\ newOrder(Queue)
+comment1.text=\ \ newOrder\ -\ creates\ a\ new\ order\ \r\n\ \r\n\ \ @param\ queue\ -\ the\ queue\ that\ the\ order\ should\ be\ added\ to\ \r\n
+numComments=2

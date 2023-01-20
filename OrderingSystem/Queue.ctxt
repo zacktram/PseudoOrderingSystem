@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Queue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=newNode
+comment2.target=void\ enqueue(Node)
+comment2.text=\ \ enqueue\ -\ adds\ a\ node\ to\ the\ end\ of\ the\ queue\r\n\ \r\n\ \ @param\ newNode\ -\ the\ new\ node\ that\ is\ to\ be\ added\ to\ the\ end\ of\ the\ queue\r\n
+comment3.params=
+comment3.target=Node\ dequeue()
+comment4.params=
+comment4.target=Node\ peek()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=
+comment6.target=void\ printQueue()
+comment7.params=key
+comment7.target=java.lang.String\ orderSearch(int)
+comment7.text=\ \ orderSearch\ -\ searches\ for\ the\ node\ with\ the\ matchting\ key\ that\ is\ given\r\n\ \r\n\ \ @param\ key\ -\ the\ orderNumber\ the\ user\ is\ searching\ for\r\n
+comment8.params=
+comment8.target=Queue()
+numComments=9
